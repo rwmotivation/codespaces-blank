@@ -1,0 +1,1 @@
+def is_replenishment_required(available_stock, reorder_threshold): 3 return available_stock <= reorder_threshold
